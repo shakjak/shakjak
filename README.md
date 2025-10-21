@@ -1,7 +1,7 @@
 # Hi there 👋, it's Shakoor!
 ---
 
-## From the Martial Arts ring to the world of Data Science  
+## From Martial Arts to the world of Data Science  
 
 I’ve spent nearly a decade leading, teaching, and analyzing performance to improve outcomes. Now, I apply that same focus and curiosity to data. Skilled in Python, SQL, and machine learning, I love turning complex datasets into clear, actionable insights.
 
