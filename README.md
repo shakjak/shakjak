@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋, it's Shakoor!
+## From the Martial Arts ring to the world of Data Science  
+I’ve spent nearly a decade leading, teaching, and analyzing performance to improve outcomes. Now, I apply that same focus and curiosity to data. Skilled in Python, SQL, and machine learning, I love turning complex datasets into clear, actionable insights.
+## More about me:
+- 🔭 I’m currently working on Kaggle Projects, I am trying to keep my sword sharp!
+- - ⚡ Fun fact: My currnet sport obsession is golf!
+- 📫 How to reach me: Linked In | www.linkedin.com/in/shakoor-sleight/
 
 <!--
 **shakjak/shakjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
